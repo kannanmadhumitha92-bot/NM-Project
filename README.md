@@ -52,6 +52,8 @@ Use ZPA connectors to securely connect users to private applications without exp
 | 4    | MAHASELVI M | Bharathidasan College of Arts and Science, Ellispettai | mahaselvi353@gmail.com |
 | 5    | MAHESWARI A  | Bharathidasan College of Arts and Science, Ellispettai | maheswariskp2006@gmail.com  |
 
+## Project demo video link :https://drive.google.com/file/d/1QC77WJVaOHEWsKHP-WD8X6Pt5dygrAAc/view?usp=sharing
+
 ## Conclusion
 
 This project helped us understand how Zscaler Private Access (ZPA) implements the Zero Trust security model by enforcing least-privilege access through identity-aware policies. By integrating Identity Providers with ZPA, organizations can secure internal applications and ensure that only authorized users gain access, improving overall cybersecurity.
